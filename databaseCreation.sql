@@ -1,0 +1,15 @@
+-- CREATE TABLE ieeeusers(
+-- 	pk int unsigned auto_increment primary key,
+-- 	id longtext not null,
+--     firstname LONGTEXT NOT NULL,
+--     lastname LONGTEXT NOT NULL,
+--     email LONGTEXT NOT NULL,
+--     username LONGTEXT NOT NULL,
+--     password LONGTEXT NOT NULL,
+--     reg_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+-- )
+
+-- create table expiredTokens(
+-- 	pk int unsigned auto_increment primary key,
+--     token longtext not null
+-- )
