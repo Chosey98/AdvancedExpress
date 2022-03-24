@@ -1,3 +1,4 @@
+-- create database ieee;
 -- CREATE TABLE ieeeusers(
 -- 	pk int unsigned auto_increment primary key,
 -- 	id longtext not null,
